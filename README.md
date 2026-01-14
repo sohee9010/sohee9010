@@ -1,6 +1,7 @@
 ## Welcome to Park Sohee's GitHub Page! 👋
 안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱
-저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다. 제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨
+저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다. 
+제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨
 
 <!--
 **sohee9010/sohee9010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
