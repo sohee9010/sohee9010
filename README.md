@@ -29,8 +29,8 @@
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohee9010%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> 
     </div> 
-    </div> 
-<div align="center">
+    </div>
+        <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF8F20&background=000000&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Creative+Web+%26+Game+Creator;Fast+Learner+%26+Problem+Solver" alt="Typing SVG" />
   </a>
