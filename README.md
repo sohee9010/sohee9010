@@ -7,23 +7,7 @@
     </div>
     <div align="center">
   <br>
-  <h3>
-    I am a 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=62B8F7&width=435&lines=Full+Stack;Creative;Web+%26+Mobile" height="40" style="vertical-align: bottom;" />
-    Developer
-  </h3>
-</div>
-<div align="center">
-  <span style="font-size: 26px; color: #333;">I am a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62B8F7&width=230&lines=Full+Stack;Creative;Web+%26+Mobile&size=26&center=true&vCenter=true" alt="Typing SVG" style="vertical-align: middle; height: 40px;" />
-  <span style="font-size: 26px; color: #333;">Developer</span>
-</div>
-<div align="center">
-  <br>
-  <span style="font-size: 28px; font-weight: bold;">I am a</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62B8F7&width=250&lines=Full+Stack;Creative;Web+%26+Mobile&size=28" alt="Typing SVG" style="vertical-align: middle; margin-bottom: -8px;" />
-  <span style="font-size: 28px; font-weight: bold;">Developer</span>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF8F20&background=000000&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Creative+Web+%26+Game+Creator;Fast+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
     <div align= "center">
     <h2 style="border-bottom: 1 solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
