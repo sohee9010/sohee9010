@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">1545thgml@naver.com</li></li><br><br></li>안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱 <br></li>저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다.<br></li>제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨ </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1 solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
