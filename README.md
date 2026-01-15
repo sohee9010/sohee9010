@@ -30,8 +30,3 @@
     </div>
     <div align= "center">
         <br>
-<div align= "center">
-    <h2 style="border-bottom: 1 solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohee9010&show_icons=true&theme=bear)    
-<br>
