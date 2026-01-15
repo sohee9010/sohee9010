@@ -29,12 +29,4 @@
     </div> 
     </div>
            <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-  <br>
-  <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sohee9010&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</div>
-  </a>
-</div>
+           
