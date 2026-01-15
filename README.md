@@ -13,6 +13,14 @@
     Developer
   </h3>
 </div>
+< div align="center">
+  <br>
+  <h3 style="display: flex; align-items: center; justify-content: center ;">
+    <span style="font-size: 24px; margin-right: 10px;">I am a</span>
+    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color= 62B8F7&width=220&lines=Full+Stack;Creative;Web+%26+Mobile&size=25 " height="40" style="vertical-align: middle;" />
+    <span style="font-size: 24px; margin- left: 10px;">Developer</span>
+  </h3>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1 solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
