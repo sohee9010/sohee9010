@@ -31,4 +31,9 @@
     <div align= "center">
           <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
            [![GitHub Streak](https://streak-stats.demolab.com?user=sohee9010&theme=transparent&hide_border=%EC%A7%84%EC%8B%A4&short_numbers=%EA%B1%B0%EC%A7%93)](https://git.io/streak-stats)
-        <br>
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sohee9010&theme=transparent&hide_border=true&short_numbers=false" alt="GitHub Streak" />
+  </a>
+</div>
