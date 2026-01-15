@@ -31,7 +31,10 @@
            <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sohee9010&theme=transparent&hide_border=true&short_numbers=false&v=1" alt="GitHub Streak" />
+  <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohee9010&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</div>
   </a>
 </div>
