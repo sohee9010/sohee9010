@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 Email 💌 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"><b> 1545thgml@naver.com</b></li></li><br><br></li>안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱 <br></li>저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다.<br></li>제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨ </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">1545thgml@naver.com</li></li><br><br></li>안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱 <br></li>저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다.<br></li>제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨ </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -26,6 +26,8 @@
     <div align= "center"> <a href=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohee9010%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sohee9010=anuraghazra&theme=dark&show_icons=true)
        </div> 
     </div>
     
