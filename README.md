@@ -9,19 +9,8 @@
   <br>
   <h3>
     I am a 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=62B8F7&width=435&lines=Full+Stack;Creative;Web+%26+Mobile" height="50" style="vertical-align: bottom;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=62B8F7&width=435&lines=Full+Stack;Creative;Web+%26+Mobile" height="40" style="vertical-align: bottom;" />
     Developer
-  </h3>
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=62B8F7&width=435&lines=Full+Stack;Creative;Web+%26+Mobile)](https://git.io/typing-svg)
-
-< div align="center">
-  <br>
-  <h3 style="display: flex; align-items: center; justify-content: center ;">
-    <span style="font-size: 24px; margin-right: 10px;">I am a</span>
-    < img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color= 62B8F7&width=220&lines=Full+Stack;Creative;Web+%26+Mobile&size=25 " height="40" style="vertical-align: middle;" />
-    <span style="font-size: 24px; margin- left: 10px;">Developer</span>
   </h3>
 </div>
     <div align= "center">
