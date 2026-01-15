@@ -13,7 +13,11 @@
     Developer
   </h3>
 </div>
-
+<div align="center">
+  <span style="font-size: 26px; color: #333;">I am a</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62B8F7&width=230&lines=Full+Stack;Creative;Web+%26+Mobile&size=26&center=true&vCenter=true" alt="Typing SVG" style="vertical-align: middle; height: 40px;" />
+  <span style="font-size: 26px; color: #333;">Developer</span>
+</div>
 <div align="center">
   <br>
   <span style="font-size: 28px; font-weight: bold;">I am a</span>
