@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Introduction </h2>  
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
     <br>
     안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱 <br>
