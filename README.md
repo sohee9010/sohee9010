@@ -48,11 +48,11 @@
     <a href="https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
     </a>
-    <br>
-  <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" width="100%">
+  </div>  
 </div>
 
-  <div align="center">
+
+<div align="center">
   <svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%" style="border-radius: 20px; overflow: hidden;">
       <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
@@ -60,6 +60,4 @@
       </div>
     </foreignObject>
   </svg>
-</div>
-  </div>  
 </div>
