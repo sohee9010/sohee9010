@@ -51,13 +51,4 @@
   </div>  
 </div>
 
-
-<div align="center">
-  <svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%" style="border-radius: 20px; overflow: hidden;">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" style="width: 100%; height: auto; min-height: 100%; flex-shrink: 0;" />
-      </div>
-    </foreignObject>
-  </svg>
-</div>
+![Image](https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e)
