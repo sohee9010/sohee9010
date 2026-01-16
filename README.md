@@ -1,6 +1,6 @@
-**<div align="center">
+'<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20World👋%20I'm%20Sohee&animation=scaleIn&fontColor=ffffff&fontSize=60" />
-</div>**
+</div>'
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e" width="100%">
