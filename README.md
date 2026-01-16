@@ -1,6 +1,11 @@
-<div align="center">
+**<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20World👋%20I'm%20Sohee&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+</div>**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e" width="100%">
 </div>
+
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
@@ -49,7 +54,4 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
     </a>
   </div>  
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e" width="100%">
 </div>
