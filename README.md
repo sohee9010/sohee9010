@@ -50,5 +50,6 @@
     </a>
   </div>  
 </div>
-
-![Image](https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2fba2a77-e2df-42d0-be5d-a1edeb9f334e" width="100%">
+</div>
