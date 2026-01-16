@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" width="100%">
-</div>
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20World👋%20I'm%20Sohee&animation=scaleIn&fontColor=ffffff&fontSize=60" />
 </div>
 <div align="center"> 
@@ -51,5 +48,9 @@
     <a href="https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
     </a>
+
+    <div align="center">
+  <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" width="100%">
+</div>
   </div>  
 </div>
