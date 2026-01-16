@@ -51,5 +51,10 @@
     <br>
   <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" width="100%">
 </div>
+
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/c2143211-259b-444f-8e34-441fe6d9298f" 
+       style="width: 100%; height: 300px; object-fit: cover; border-radius: 20px;">
+</div>
   </div>  
 </div>
