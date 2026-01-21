@@ -1,4 +1,4 @@
-<!--<div align="center">
+<img width="1113" height="506" alt="image" src="https://github.com/user-attachments/assets/8b224b06-af31-4302-afc3-c34631efa167" /><!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20World👋%20I'm%20Sohee&animation=scaleIn&fontColor=ffffff&fontSize=60" />
 </div>-->
 
