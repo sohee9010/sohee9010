@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3ECF8E&height=180&section=header&text=Sohee%20Park&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 </div>
-
 ## 👩‍💻 Introduction
 
 안녕하세요, 신입 풀스택 개발자 박소희입니다.
