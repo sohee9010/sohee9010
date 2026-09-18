@@ -13,7 +13,6 @@
 </div>
 <div align="center">
   <br>
-  <br>
 </div>
 
 <div align="center">
