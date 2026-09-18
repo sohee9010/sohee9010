@@ -4,10 +4,10 @@
   </a>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-    <br>
+    <br><b>
     안녕하세요! 신입 웹개발자 박소희입니다. 🌱 <br>
     저는 새로운 웹을 구축하고, 만들어나가고 있습니다! <br>
-    제 저장소를 통해 프로젝트 구경하고 가세요✨
+    제 저장소를 통해 프로젝트 구경하고 가세요✨</b>
   </div> 
 </div>
 <div align="center">
