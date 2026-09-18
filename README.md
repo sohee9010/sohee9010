@@ -41,7 +41,7 @@
     <a href="mailto:1545thgml@naver.com">
       <img src="https://img.shields.io/badge/Email-1545thgml@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
     </a>
-    <br><br>
+    <br>
     <a href="https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#"> 
     </a>
