@@ -52,17 +52,9 @@
 
 <div align="center">
 
-## 📫 Contact Me
-
-<a href="mailto:1545thgml@naver.com">
-  <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://sohee9010.github.io/Parksohee_Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+📫 Contact Me
+<a href="mailto:1545thgml@naver.com"> <img src="https://img.shields.io/badge/Email-1545thgml@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/> </a> <a href="https://sohee9010.github.io/Parksohee_Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6C63FF&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6C63FF&height=100&section=footer" width="100%"/> </div>
