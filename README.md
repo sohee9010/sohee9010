@@ -8,12 +8,11 @@
     제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨
   </div> 
 </div>
-
-<div align="center">
-  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=CDCDCD&background=FFFFFF&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Creative+Web+%26+Game+Creator;Fast+Learner+%26+Problem+Solver" alt="Typing SVG" />
   </a>
+<div align="center">
+  <br>
   <br>
 </div>
 
