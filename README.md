@@ -2,7 +2,6 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩 Introduction </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-    <br>
       <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=CDCDCD&background=FFFFFF&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Creative+Web+%26+Game+Creator;Fast+Learner+%26+Problem+Solver" alt="Typing SVG" />
   </a>
