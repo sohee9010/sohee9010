@@ -52,7 +52,7 @@
 
 <div align="center">
 
-📫 Contact Me
+## 📫 Contact Me
 <a href="mailto:1545thgml@naver.com"> <img src="https://img.shields.io/badge/Email-1545thgml@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/> </a> <a href="https://sohee9010.github.io/Parksohee_Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
 <br><br>
