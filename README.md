@@ -2,19 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3ECF8E&height=180&section=header&text=Sohee%20Park&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=282D33&background=FFFFFF00&vCenter=true&width=550&lines=React+%2B+TypeScript+%EA%B8%B0%EB%B0%98+%EC%9B%B9+%EC%84%9C%EB%B9%84%EC%8A%A4+%EA%B0%9C%EB%B0%9C%EC%9E%90;Node.js+%2F+Supabase%EB%A1%9C+%EB%B0%B1%EC%97%94%EB%93%9C%EA%B9%8C%EC%A7%80+%EB%8B%A4%EB%A3%A8%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D;4%EA%B0%9C+%ED%8C%80+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC+%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80+%EC%A3%BC%EB%8F%84" alt="Typing SVG" />
-</a>
-
 </div>
 
 ## 👩‍💻 Introduction
 
-**React·TypeScript 프론트엔드 + Node.js·Supabase 백엔드**를 함께 다루는 신입 풀스택 개발자 박소희입니다.
+**성장하는 신입 웹개발자 박소희입니다.**
 
 - 🔭 4인 팀 프로젝트 3회로 쇼핑몰, 3D 게임, Unity 연동 게임을 기획부터 배포까지 진행
 - 🌱 주로 UI 구현과 화면 간 데이터 흐름 설계 담당 / Three.js·Unity로 3D·게임 요소를 웹에 연동
-- 🤝 대학 영상편집 동아리 INOSIF 회장, 필리핀·베트남 해외봉사(WFK PAS)
 
 <div align="center">
 
@@ -50,9 +45,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sohee9010&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohee9010&layout=compact&hide_border=true&cache_seconds=1800" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=sohee9010&hide_border=true&theme=default" height="165"/>
 
