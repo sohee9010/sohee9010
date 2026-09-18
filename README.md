@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=CDCDCD&background=FFFFFF&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Creative+Web+%26+Game+Creator;Fast+Learner+%26+Problem+Solver" alt="Typing SVG" />
   </a>
     <br>
-    안녕하세요! 열정적인 풀스택 개발자 박소희입니다. 🌱 <br>
-    저는 확장 가능한 웹 애플리케이션을 구축하고, 새로운 기술을 탐구하는 것을 좋아합니다.<br>
-    제가 어떤 작업들을 해왔는지, 제 저장소에서 확인해 보세요!✨
+    안녕하세요! 신입 웹개발자 박소희입니다. 🌱 <br>
+    저는 새로운 웹을 구축하고, 만들어나가고 있습니다!
+    프로젝트 구경하고 가세요✨
   </div> 
 </div>
 <div align="center">
