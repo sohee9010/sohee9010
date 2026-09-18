@@ -53,20 +53,10 @@
 <div align="center">
 
 ## 📫 Contact Me
+<a href="mailto:1545thgml@naver.com"> <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://sohee9010.github.io/Parksohee_Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-3ECF8E?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
-<a href="mailto:1545thgml@naver.com">
-  <img src="https://img.shields.io/badge/Email-1545thgml@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-</a>
-<br><br>
-<a href="https://www.instagram.com/sohee_910/?igsh=dDAxZWVtZzhxenR3&utm_source=qr#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-</a>
-<a href="https://sohee9010.github.io/Parksohee_Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white">
-</a>
+<sub>1545thgml@naver.com</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6C63FF&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6C63FF&height=100&section=footer" width="100%"/> </div>
